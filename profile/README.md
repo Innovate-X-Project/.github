@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <h1>Innovate X</h1>
+  <h1>Innovate X- APP NAME TO BE DECIDED </h1>
   <h3>Telemedicine Web Application</h3>
   
   <!-- Badges -->
