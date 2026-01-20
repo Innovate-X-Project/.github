@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <i>Revolutionizing healthcare accessibility through secure and efficient web-based solutions.</i>
+    <i>Revolutionising healthcare accessibility through secure and efficient web-based solutions.</i>
   </p>
 </div>
 
@@ -81,7 +81,7 @@
 | **Database** | SQL Server (T-SQL) |
 
 ### Methodology: Agile
-We utilize the **Agile** methodology to ensure rapid delivery and continuous improvement.
+We utilise the **Agile** methodology to ensure rapid delivery and continuous improvement.
 *   **Sprints:** 2-week development cycles.
 *   **Collaboration:** Daily stand-ups and regular code reviews via GitHub.
 *   **Testing:** Continuous integration and unit testing managed by the Platform Engineer.
