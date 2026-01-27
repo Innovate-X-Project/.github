@@ -1,6 +1,5 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://github.com/Innovate-X-Project/.github/blob/main/Image/CareCall%20Logo.png" class="w3-border w3-padding" alt="CareCall Logo">
   <h1> CareCall </h1>
   <h3>Telemedicine Web Application</h3>
   
@@ -18,7 +17,7 @@
 </div>
 
 <hr />
-
+<img src="https://github.com/Innovate-X-Project/.github/blob/main/Image/CareCall%20Logo.png" class="w3-border w3-padding" alt="CareCall Logo">
 <!-- About the Project -->
 ## About The Project
 **Innovate X** is developing a comprehensive **Telemedicine Web App, CareCall** designed to bridge the gap between patients and healthcare providers. Our solution focuses on providing a secure, user-friendly platform for remote consultations, appointment management, and health record accessibility.
