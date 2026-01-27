@@ -2,7 +2,7 @@
 <div align="center">
   <h1> CareCall </h1>
   <h3>Telemedicine Web Application</h3>
-   <img src="https://github.com/Innovate-X-Project/.github/blob/main/Image/CareCall%20Logo.png" class="w3-border w3-padding" alt="CareCall Logo">
+   
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status" />
@@ -14,6 +14,7 @@
   <p>
     <i>Revolutionising healthcare accessibility through secure and efficient web-based solutions.</i>
   </p>
+  <img src="https://github.com/Innovate-X-Project/.github/blob/main/Image/CareCall%20Logo.png" class="w3-border w3-padding" alt="CareCall Logo">
 </div>
 
 <hr />
