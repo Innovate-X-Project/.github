@@ -38,7 +38,6 @@
       <td align="center" width="200">
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
-        <b>Aryan Khan</b>
         <a href= "https://github.com/Ary-khan1">Aryan Khan</a>
         <br />
         Team Leader & System Architect
@@ -46,21 +45,21 @@
       <td align="center" width="200">
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
-        <b>Vishnu Narayanan</b>
+        <a href = " https://github.com/Loompus">Vishnu Narayanan</a>
         <br />
         Platform Engineer (Backend/Testing)
       </td>
       <td align="center" width="200">
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
-        <b>Ali Shehdy</b>
+        <a href ="https://github.com/Ali-Shehdy ">Ali Shehdy</a>
         <br />
         Primary Designer & Frontend
       </td>
       <td align="center" width="200">
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
-        <b>Arosh Costa</b>
+        <a>Arosh Costa</a>
         <br />
         Project Manager & Secondary Designer
       </td>
