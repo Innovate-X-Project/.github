@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="snowtops.jpg" class="w3-border w3-padding" alt="Alps">
+  <img src="https://github.com/Innovate-X-Project/.github/blob/main/Image/CareCall%20Logo.png" class="w3-border w3-padding" alt="CareCall Logo">
   <h1> CareCall </h1>
   <h3>Telemedicine Web Application</h3>
   
