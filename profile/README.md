@@ -45,7 +45,7 @@
       <td align="center" width="200">
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
-        <a href = " https://github.com/Loompus">Vishnu Narayanan</a>
+        <a href ="https://github.com/Loompus">Vishnu Narayanan</a>
         <br />
         Platform Engineer (Backend/Testing)
       </td>
