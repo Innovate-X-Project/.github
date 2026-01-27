@@ -39,6 +39,7 @@
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
         <b>Aryan Khan</b>
+        <a href= "https://github.com/Ary-khan1">Aryan Khan</a>
         <br />
         Team Leader & System Architect
       </td>
