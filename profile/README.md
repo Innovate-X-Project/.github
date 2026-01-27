@@ -1,5 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
+  <img src="snowtops.jpg" class="w3-border w3-padding" alt="Alps">
   <h1> CareCall </h1>
   <h3>Telemedicine Web Application</h3>
   
