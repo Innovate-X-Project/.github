@@ -20,7 +20,7 @@
 
 <!-- About the Project -->
 ## About The Project
-**Innovate X** is developing a comprehensive **Telemedicine Web App** designed to bridge the gap between patients and healthcare providers. Our solution focuses on providing a secure, user-friendly platform for remote consultations, appointment management, and health record accessibility.
+**Innovate X** is developing a comprehensive **Telemedicine Web App, CareCall** designed to bridge the gap between patients and healthcare providers. Our solution focuses on providing a secure, user-friendly platform for remote consultations, appointment management, and health record accessibility.
 
 **Key Features:**
 *   Real-time video consultations
