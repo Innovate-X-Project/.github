@@ -59,7 +59,7 @@
       <td align="center" width="200">
         <img src="https://github.com/github.png" width="100px;" alt=""/>
         <br />
-        <a>Arosh Costa</a>
+        <a href = "https://github.com/Arosh204 ">Arosh Costa</a>
         <br />
         Project Manager & Secondary Designer
       </td>
