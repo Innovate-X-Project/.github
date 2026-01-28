@@ -37,7 +37,7 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://github.com/github.png" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/184928427?v=4" width="100px;" alt="Aryan Khan"/>
         <br />
         <a href= "https://github.com/Ary-khan1">Aryan Khan</a>
         <br />
