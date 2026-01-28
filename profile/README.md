@@ -51,7 +51,7 @@
         Platform Engineer (Backend/Testing)
       </td>
       <td align="center" width="200">
-        <img src="https://github.com/github.png" width="100px;" alt=""/>
+        <img src="https://github.com/user-attachments/assets/053e558b-7378-426d-b48e-8b1f6ae20613" width="100px;" alt="Ali Shehdy"/>
         <br />
         <a href ="https://github.com/Ali-Shehdy ">Ali Shehdy</a>
         <br />
