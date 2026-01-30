@@ -64,6 +64,13 @@
         <br />
         Project Manager & Secondary Designer
       </td>
+      <td align="center" width="200">
+        <img src="https://github.com/github.png" width="100px;" alt=""/>
+        <br />
+        <a href = " ">Micheal Ogbuafor</a>
+        <br />
+        2nd Platform Engineer
+      </td>
     </tr>
   </table>
 </div>
