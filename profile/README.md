@@ -48,7 +48,7 @@
         <br />
         <a href ="https://github.com/Loompus">Vishnu Narayanan</a>
         <br />
-        Platform Engineer (Backend/Testing)
+        1st Platform Engineer (Backend/Testing)
       </td>
       <td align="center" width="200">
         <img src="https://github.com/user-attachments/assets/053e558b-7378-426d-b48e-8b1f6ae20613" width="100px;" alt="Ali Shehdy"/>
@@ -69,7 +69,7 @@
         <br />
         <a href = " ">Micheal Ogbuafor</a>
         <br />
-        2nd Platform Engineer
+        2nd Platform Engineer (Backend/Testing)
       </td>
     </tr>
   </table>
